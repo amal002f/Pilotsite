@@ -51,6 +51,7 @@ header nav ul {
   gap: 30px;
   overflow-x: auto;
 }
+
 a {
   text-decoration: none;
   font-weight: 700;
@@ -76,10 +77,6 @@ ul {
   padding-inline-start: 40px;
   font-family: "poppins regular";
   color: rgb(245, 245, 245);
-}
-
-li {
-  font-family: "poppins regular";
 }
 
 @font-face {
